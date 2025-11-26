@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\blaze\Documents\School\Data Structures\Ass_3\Ass_3\main.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ass_3.vcxproj -> C:\Users\blaze\Documents\School\Data Structures\Ass_3\x64\Debug\Ass_3.exe
